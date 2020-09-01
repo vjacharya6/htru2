@@ -4,3 +4,5 @@ HTRU_2.csv contains Radio Telescope data from High Time Resolution Universe Surv
 Dispersion measure is the dispersion in the signal as it passes through the interstellar medium, and is related to the electron column density. 
 These predictors were identified by Lyon et al., arXiv:1603.05166. 
 The label is binary: 1 represents pulsar signals as annotated by human experts and 0 represents noise due to radio frequency interference.
+htru2.ipynb trains and tests a few garden-variety classifiers on this data. 
+
